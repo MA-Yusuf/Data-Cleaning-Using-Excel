@@ -1,5 +1,5 @@
 # DATA CLEANING USING EXCEL
-Leveraging Excel's Advanced Data Cleaning Functions for Data Analysis and Marketing Campaign Analysis at Pulse360 Advertising
+Leveraging Excel's Advanced Data Cleaning Functions for Marketing Campaign Analysis at Pulse360 Advertising
 ---
 ![image](https://t3.ftcdn.net/jpg/11/81/84/60/360_F_1181846094_68B4k00g9GIpmMGnZ3hD0N0lba5t2yze.jpg)
 
