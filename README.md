@@ -23,7 +23,7 @@ AIM OF THE PROJECT
 * Correct erroneous entries and inconsistencies in categorical field
 * Enhance data reliability to support accurate and meaningful insights into the campaign performance.
 
-SKILL & CONCEPT DEMOSTRATED
+SKILLS & CONCEPT DEMOSTRATED
 ---
 * Business Understanding
 * Data importation into Excel
