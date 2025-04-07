@@ -9,7 +9,7 @@ INTRODUCTION
 ---
 This project conducts comprehensive data cleaning by a data scientist for Pulse360 Advertising to make the marketing campaign performance dataset ready for analysis to enhance business performance. By using different functions such as substitute, trim, left, right, ifisblank and value, the analysis aims to provide valuable insights into marketing campaign performance and business growth. Leveraging Excels’s powerful cleaning and analytical capabilities, the project will uncover actionable data-driven strategies to optimize campaigns, improve profitability, and enhance decision-making in a competitive market environment.
 
-![image](https://private-user-images.githubusercontent.com/173513243/390309437-89e09fc1-89a3-43c6-8a6a-304e2dde3e64.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQwMTA2MzUsIm5iZiI6MTc0NDAxMDMzNSwicGF0aCI6Ii8xNzM1MTMyNDMvMzkwMzA5NDM3LTg5ZTA5ZmMxLTg5YTMtNDNjNi04YTZhLTMwNGUyZGRlM2U2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwN1QwNzE4NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWE2YjM4NjI3NjhmMWE0MTRjMzA4YTEzMDk3MGI2MWE0OGJlZWI4NGMzN2Q1NTNiNmM2ZWU4NzI3OTMyODc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.imxG28wry2oQUp-DLvY1jv7YWQRLW4g1r2ZqUNEI2-c)
+![image](https://www.teaminteriors.co.uk/wp-content/uploads/2017/07/03-duo-main.jpg)
 
 PROBLEM STATEMENT
 ---
